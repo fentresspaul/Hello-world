@@ -2,6 +2,6 @@
 
 first git hub attempt 
 
-want to learn how to code
+want to learn how to code 2
 
 
